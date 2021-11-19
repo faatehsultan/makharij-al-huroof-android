@@ -2,4 +2,10 @@
     <string name="app_name">MakharijApp</string>
     <string name="app_title">مخارج الحروف</string>]
     <string name="github_repo_url">https://github.com/faatehsultan/makharij-al-huroof-android.git</string>
+    <string name="total_chapters">5</string>
+    <string name="cat_1">Halqiyah</string>
+    <string name="cat_2">Lahatiyah</string>
+    <string name="cat_3">Shajariyah Haafiya</string>
+    <string name="cat_4">Tarfiyah</string>
+    <string name="cat_5">Niteeyah</string>
 </resources>

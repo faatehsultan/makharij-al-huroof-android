@@ -12,5 +12,7 @@
         <!-- Status bar color. -->
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
+        <item name="fontFamily">Times New Roman</item>
+<!--        <item name="android:windowIsFloating">true</item>-->
     </style>
 </resources>
